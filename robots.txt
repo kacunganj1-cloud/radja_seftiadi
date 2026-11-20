@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://GANTI-DENGAN-URL-WEBSITE-KAMU/sitemap.xml
+Sitemap: https://kacunganj1-cloud.github.io/radja_seftiadi/sitemap.xml
