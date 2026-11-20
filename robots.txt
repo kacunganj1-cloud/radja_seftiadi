@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://GANTI-DENGAN-URL-WEBSITE-KAMU/sitemap.xml
